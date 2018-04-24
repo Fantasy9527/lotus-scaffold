@@ -1,0 +1,5 @@
+{
+  "name": "lotus-scaffold",
+  "version": "0.0.1",
+  "bin":{"lotus-scaffold":"_lotus/bin/index.js"}
+}
