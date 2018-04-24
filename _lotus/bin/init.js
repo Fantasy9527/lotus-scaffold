@@ -4,7 +4,7 @@ const fse = require('fs-extra');
 const path = require('path');
 const shell = require("shelljs");
 const child_process = require('child_process')
-const lotusConfig = require('../.lotus/')
+const lotusConfig = require('../config.js')
 const log = util.log
 
 module.exports = {
